@@ -1,5 +1,11 @@
 # hash-map-frontend
 
+## requirements
+
+$ Node.js 16.x is used
+$ Vue 2 is used
+
+
 ## Project setup
 ```
 npm install
@@ -10,15 +16,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Working functionalities
 
-### Lints and fixes files
-```
-npm run lint
-```
+* Only login works with this application
+* Other funtionalities are yet to be done  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+NB: Remember to run hash-map-api server before calling login
