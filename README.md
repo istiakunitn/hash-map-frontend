@@ -2,8 +2,8 @@
 
 ## requirements
 
-$ Node.js 16.x is used
-$ Vue 2 is used
+* Node.js 16.x is used
+* Vue 2 is used
 
 
 ## Project setup
@@ -18,7 +18,7 @@ npm run serve
 
 ### Working functionalities
 
-* Only login works with this application
+* Only login works in this application
 * Other funtionalities are yet to be done  
 
 NB: Remember to run hash-map-api server before calling login
